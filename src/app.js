@@ -1,4 +1,4 @@
-console.log("🚀 app.js est exécuté");
+"console.log("🚀 app.js est exécuté");
 
 require("dotenv").config();
 const express = require("express");
